@@ -11,7 +11,7 @@ To implement HASH ALGORITHM
 
 2. Initialization:
    - Choose a hash function \( H \) (e.g., SHA-256, MD5, etc.).
-   - The message \( M \) to be hashed is input.
+   - The message \( M \) to be hashed is input. 
 
 3. Message Preprocessing:
    - Break the message \( M \) into fixed-size blocks. If necessary, pad the message to make it compatible with the block size required by the hash function.
